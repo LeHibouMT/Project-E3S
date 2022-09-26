@@ -1,0 +1,7 @@
+22-06-21 21:58:51.743 : Model path: C:\Users\Michel\Desktop\PROJET\Codes\model_zoo\drunet_gray.pth
+22-06-21 21:58:51.744 : Params number: 32638656
+22-06-21 21:58:51.744 : model_name:drunet_gray, model sigma:100, image sigma:100
+22-06-21 21:58:51.744 : C:\Users\Michel\Desktop\PROJET\Codes\testsets\testf
+22-06-21 21:59:47.279 : image0.jpeg - PSNR: 15.54 dB; SSIM: 0.3261.
+22-06-21 22:00:14.415 : image1.jpeg - PSNR: 15.49 dB; SSIM: 0.3292.
+22-06-21 22:00:14.437 : Average PSNR/SSIM(RGB) - testf_dn_drunet_gray - PSNR: 15.51 dB; SSIM: 0.3277
